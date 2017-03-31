@@ -1,0 +1,5 @@
+author: "Robert George <rgeorge@midnightweb.net>"
+category: "service"
+summary: "Push offline messages to Prowl"
+home: "http://www.unsleeping.com/2010/07/31/prowl-module-for-ejabberd/"
+url: "http://www.unsleeping.com/2010/07/31/prowl-module-for-ejabberd/"
